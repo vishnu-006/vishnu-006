@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishnu-006
 - 👀 I’m interested in PYTHON PROGRAMMING AND CYBER SECURITY
-- 🌱 I’m currently learning C & PYTHON
+- 🌱 I’m currently learning JAVA & PYTHON
 - 💞️ I’m LOOKING TO LEARN CYBER-SECURITY
 
 <!---
